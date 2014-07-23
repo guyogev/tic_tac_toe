@@ -1,0 +1,20 @@
+<div class = "centered" > 
+  <div class="row">
+    <div class = "box" > <p class = "xoElement">&nbsp; </p></div>
+    <div class = "box" > <p class = "xoElement">&nbsp; </p></div>
+    <div class = "box" > <p class = "xoElement">&nbsp; </p></div>
+  </div>
+
+  <div class="row">
+    <div class = "box" > <p class = "xoElement">&nbsp; </p></div>
+    <div class = "box" > <p class = "xoElement">&nbsp; </p></div>
+    <div class = "box" > <p class = "xoElement">&nbsp; </p></div>
+  </div>
+  
+  <div class="row">
+    <div class = "box" > <p class = "xoElement">X </p></div>
+    <div class = "box" > <p class = "xoElement">&nbsp; </p></div>
+    <div class = "box" > <p class = "xoElement">&nbsp; </p></div>
+  </div>
+  
+</div>
